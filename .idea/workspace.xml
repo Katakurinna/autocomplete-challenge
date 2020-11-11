@@ -19,28 +19,19 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="700a7e96-5c6b-4b37-8565-6786217e3073" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/cerratolabs/challenge/autocomplete/FileTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/cerratolabs/challenge/autocomplete/Autocomplete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/cerratolabs/challenge/autocomplete/FileAutocomplete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/me/cerratolabs/challenge/autocomplete/ListAutocomplete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/me/cerratolabs/challenge/autocomplete/FileTesting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autocomplete Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/autocomplete-challenge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/cerratolabs/challenge/autocomplete/Autocomplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/cerratolabs/challenge/autocomplete/Autocomplete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/cerratolabs/challenge/autocomplete/FileAutocomplete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/cerratolabs/challenge/autocomplete/ListAutocomplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/cerratolabs/challenge/autocomplete/FileTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/cerratolabs/challenge/autocomplete/FileTesting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +57,12 @@
   </component>
   <component name="ProjectId" id="1k9S3WogLaROKcpcEf5C6Glr3hQ" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -144,7 +137,7 @@
       <workItem from="1605111117557" duration="1516000" />
       <workItem from="1605119297971" duration="1611000" />
       <workItem from="1605122998139" duration="11000" />
-      <workItem from="1605123022978" duration="2930000" />
+      <workItem from="1605123022978" duration="3327000" />
     </task>
     <servers />
   </component>
@@ -171,6 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126286165" />
+    <state x="686" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605127875433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605127875433" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605112225008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,22 +176,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126261567" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605126244122">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605128868372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126244122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605126244122">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605128868372" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605128868372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126244122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605126244122">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605128868372" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605128868372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126244122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605126244122">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605128868372" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605128868372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605126244122" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605128868372" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605126057651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
