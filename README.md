@@ -1,5 +1,5 @@
 # autocomplete-challenge
-Autocomplete challenge - Video from @Bettatech
+Autocomplete challenge - Video from @martincrb
 
 # How to use
 * Download the sources
