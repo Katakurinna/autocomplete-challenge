@@ -1,5 +1,12 @@
 # idea
-.idea
+*.iml
+.idea/
+.eclipse
 
 # trash
-target
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
