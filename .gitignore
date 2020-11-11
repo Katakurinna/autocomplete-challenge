@@ -1,0 +1,12 @@
+# idea
+*.iml
+.idea/
+.eclipse
+
+# trash
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
